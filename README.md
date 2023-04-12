@@ -6,9 +6,13 @@ Node.js (v14 or higher)
 Discord.js (v13 or higher)
 # Installation
 1. Clone this repository: git clone https://github.com/TheLinuxChoice5/RainbowRole.git
+
 2. Navigate to the project directory: cd RainbowRole
+
 3. Install dependencies: npm install
+
 4. Set up configuration file: cp config.json.example config.json and edit the values accordingly.
+
 5. Start the bot: npm start
 # Configuration
 The config.json file contains the following options:
