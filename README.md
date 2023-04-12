@@ -18,8 +18,11 @@ Discord.js (v13 or higher)
 The config.json file contains the following options:
 
 -token: Your Discord bot token.
+
 -serverID: The ID of the server where the role is located.
+
 -roleID: The ID of the role to be changed.
+
 -interval: The interval (in milliseconds) at which the role color should be changed.
 # Usage
 Once the bot is running, it will automatically start changing the color of the specified role at the specified interval. If the interval is less than 1 minute, a warning message will be displayed.
