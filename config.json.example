@@ -1,0 +1,6 @@
+{
+    "token": "Your discord bot token",
+    "serverID": "Your server ID",
+    "roleID": "The role ID what you want to make rainbow",
+    "interval": "120000" 
+    }
